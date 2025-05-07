@@ -1,0 +1,6 @@
+#include <limits.h>
+#include <stdlib.h>
+int main()
+{
+    printf("%d\n", INT_MIN);
+}
